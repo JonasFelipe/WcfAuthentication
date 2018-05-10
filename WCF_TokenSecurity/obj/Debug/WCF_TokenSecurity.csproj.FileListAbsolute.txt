@@ -1,0 +1,17 @@
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\WCF_TokenSecurity.dll.config
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\WCF_TokenSecurity.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\WCF_TokenSecurity.pdb
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Base.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Base.Messages.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.DAL.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Data.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Forms.Controls.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Forms.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\AlternateFramework.Util.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\Dapper.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\Dapper.xml
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\en\AlternateFramework.Base.Messages.resources.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\bin\en\AlternateFramework.DAL.resources.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\obj\Debug\WCF_TokenSecurity.csproj.CoreCompileInputs.cache
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\obj\Debug\WCF_TokenSecurity.dll
+c:\users\jonas.silva\source\repos\WCF_TokenSecurity\WCF_TokenSecurity\obj\Debug\WCF_TokenSecurity.pdb
